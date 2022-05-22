@@ -81,6 +81,7 @@ a {
         font-weight: 300;
         text-align: center;
         line-height: 1.6;
+        margin: auto 30px;
       }
   .section {
     background: #f7f7f7;
